@@ -6,7 +6,7 @@ The tool does not require an internet connection and can work offline in a brows
 
 > play online: https://yasinc2.github.io/ASCII_Art_Paint
 
-> itch.io: https://kirill-live.itch.io
+
 
 # Simple interface
 
